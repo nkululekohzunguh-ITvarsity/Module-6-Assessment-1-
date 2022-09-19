@@ -7,6 +7,7 @@ body{
     font-size: 16px;
     font-weight: 400;
     color: #363636;
+    min-height: 100vh;
 }
 p{
     line-height: 190%;
@@ -155,6 +156,17 @@ ul.styled li{
     
 }
 /*******************coyright***********************/
+footer{
+    width: 93.5%;
+    text-align: center;
+    background-color:#16a085;
+    color: white;
+    padding: 55px;
+    bottom: 0;
+
+}
+
+/*******************coyright***********************
 #copyright{
     width: 102%;
     height: 130px;
@@ -168,7 +180,9 @@ ul.styled li{
     letter-spacing: 0.1em;
     text-transform: uppercase;
     color: #ffffff;
-}
+}*/
+
+
 /*******************Gallery***********************/
 #gallery img{
     width: 120px;
